@@ -1,2 +1,2 @@
 # Pomodoro
-The Pomodoro Technique was developed in the late 1980s by then university student Francesco Cirillo. This app is inspired by this technique.
+The Pomodoro Technique was developed in the late 1980s by then university student Francesco Cirillo. When your session ends, mark off one pomodoro and record what you completed. Then enjoy a five-minute break. After four pomodoros, take a longer, more restorative 15-30 minute break. This app is inspired by this technique where the work lasts for 25 mins with short breaks of 5 min and long breaks of 20 min.
